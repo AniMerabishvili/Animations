@@ -69,7 +69,7 @@ body {
 	position: absolute;
 	right: 250px;
 	top: 200px;
-	animation: mymove 5s linear;
+	animation: myanimation 5s linear;
 }
 .icon:nth-child(6) {
 	position: absolute;
